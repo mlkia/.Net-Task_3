@@ -144,7 +144,7 @@ namespace Inlämning_3
         }
 
 
-        public void details() //Ta bort player power och monster information.
+        public void details() 
         {
             Console.Clear();
             if (player.Level <= 0) { startvalue(); }

@@ -48,10 +48,6 @@ namespace Inlämning_3
 
 
 
-
-
-
-
         public void Ripmessage()
         {
             string title = @"
@@ -71,7 +67,11 @@ namespace Inlämning_3
 
             Console.WriteLine(title);
         }
-        
+
+        //ASCII Art references:
+        //https://ascii.co.uk/
+        //https://patorjk.com/software/taag/#p=display&h=0&f=Ghost&t=You%20won
+
     }
 }
 
